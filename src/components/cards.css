@@ -1,0 +1,27 @@
+.cards-header {
+    background-color: palevioletred;
+    margin: 20px;
+    font-size: larger;
+    font-weight: bolder;
+    padding: 20px;
+    
+    
+}
+.card-body {
+    background-color: rgb(143, 123, 127);
+    width: 370px;
+    height: 150px;
+    margin: 4px;
+    text-align: center;
+    visibility: none;
+    
+    
+} 
+.container {
+    display: flex;
+   
+}
+.card-background {
+    background-color: green;
+    
+}

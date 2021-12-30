@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+.header {
+
+    display: inline-block;
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+    /*background-image: url("./img/img4.jpg");*/
+    background-color: darkcyan;
+    width: 700px;
+    height: 300px;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+
+}
+h1{
+    font-weight: bolder;
+                                            
+}
+.input_label {
+    margin-top: 20px;
+    text-transform:capitalize;
+    margin:  20px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 25px;
+    min-width: 150PX;
+}
+
+.num_box_label{
+    margin-top: 20px;
+    text-transform:capitalize;
+    margin:  20px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 25px;
+    min-width: 150PX;
+
+
+}
+.name_input {
+    margin-top: 40px;
+    padding: 10px;
+    
+}
+.num_box {
+    margin-top: 20px;
+    padding: 10px;
+}
+.btn {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius:1rem;
+    font-weight: bolder;
+    background-color: black;
+    color: white;
+    
+}
